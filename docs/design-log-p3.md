@@ -1,5 +1,5 @@
 # Project 3 Design Log
-**Author:** <Mia King> · **P2 code used:** <my own | instructor reference>
+**Author:** <Mia King> · **P2 code used:** instructor reference
 **Tools used:** <VS Code with WSL/Ubuntu, CMake, GCC, CTest, and ChatGPT. I used ChatGPT to help understand the specification, implement the C++ functions, develop additional tests, and troubleshoot errors. I reviewed, compiled, and tested the code in VS Code.>
 
 ## 1. Hash table
